@@ -20,6 +20,7 @@ int main()
 
     char mark;
     printf("\n\tTic Tac Toe\n\n");
+	fflush(stdout);
 
     do {
         board();
